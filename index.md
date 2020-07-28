@@ -1,6 +1,6 @@
 ## R packages
 
-* `acdx` Aggregated Cells Differential eXpression
+* [`acdx`](https://github.com/pwirapati/acdx) Aggregated Cells Differential eXpression
 
 ## etc
 
